@@ -1,0 +1,9 @@
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\bin\Debug\MiniMarket.DataAccess.dll
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\bin\Debug\MiniMarket.DataAccess.pdb
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\obj\Debug\MiniMarket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\obj\Debug\MiniMarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\obj\Debug\MiniMarket.DataAccess.dll
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\obj\Debug\MiniMarket.DataAccess.pdb
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\bin\Debug\MiniMarket.Models.dll
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\bin\Debug\MiniMarket.Models.pdb
+C:\Users\daimo\source\repos\MiniMarket\MiniMarket.DataAccess\obj\Debug\MiniMark.BC07442A.Up2Date

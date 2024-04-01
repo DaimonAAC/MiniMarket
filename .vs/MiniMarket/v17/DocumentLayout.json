@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|c:\\users\\daimo\\source\\repos\\minimarket\\minimarket.presentation\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.dataaccess\\clientedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|solutionrelative:minimarket.dataaccess\\clientedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.dataaccess\\productdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|solutionrelative:minimarket.dataaccess\\productdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.dataaccess\\empleadodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|solutionrelative:minimarket.dataaccess\\empleadodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.dataaccess\\proveedordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|solutionrelative:minimarket.dataaccess\\proveedordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B508352-2E87-4C3B-BEA5-16F8385B0545}|MiniMarket.DataAccess\\MiniMarket.DataAccess.csproj|solutionrelative:minimarket.dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B7A4D-BBEB-4342-99E2-E0FC264C5825}|MiniMarket.Models\\MiniMarket.Models.csproj|solutionrelative:minimarket.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|C:\\Users\\daimo\\source\\repos\\MiniMarket\\minimarket.presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0E2A7B-16D5-4701-B056-45162444FEBF}|MiniMarket.Presentation\\MiniMarket.Presentation.csproj|solutionrelative:minimarket.presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Factura.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Factura.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Factura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Factura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:53:09.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Factura.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Factura.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Factura.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Factura.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAApwPIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:57:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Factura.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Factura.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:30:15.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ClienteDataAccess.cs",
+              "RelativeDocumentMoniker": "MiniMarket.DataAccess\\ClienteDataAccess.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ClienteDataAccess.cs",
+              "RelativeToolTip": "MiniMarket.DataAccess\\ClienteDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:53:52.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ProductDataAccess.cs",
+              "RelativeDocumentMoniker": "MiniMarket.DataAccess\\ProductDataAccess.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ProductDataAccess.cs",
+              "RelativeToolTip": "MiniMarket.DataAccess\\ProductDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:59:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Menu.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Menu.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwv1UAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:44:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Menu.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:42:24.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\EmpleadoDataAccess.cs",
+              "RelativeDocumentMoniker": "MiniMarket.DataAccess\\EmpleadoDataAccess.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\EmpleadoDataAccess.cs",
+              "RelativeToolTip": "MiniMarket.DataAccess\\EmpleadoDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:21:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Proveedor.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:45:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Proveedores.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:41:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Proveedores.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Proveedores.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Proveedores.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:48:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ProveedorDataAccess.cs",
+              "RelativeDocumentMoniker": "MiniMarket.DataAccess\\ProveedorDataAccess.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\ProveedorDataAccess.cs",
+              "RelativeToolTip": "MiniMarket.DataAccess\\ProveedorDataAccess.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:46:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Empleados.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Empleados.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:33:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Empleados.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Empleados.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Empleados.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Empleados.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAIQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:49:41.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Clientes.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Clientes.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Clientes.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:19:58.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Empleado.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Empleado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:29:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Clientes.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Clientes.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:27:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwCwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:12:53.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Productos.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Productos.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:02:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniMarket.Presentation\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:15:14.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "MiniMarket.DataAccess\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.DataAccess\\UserDataAccess.cs",
+              "RelativeToolTip": "MiniMarket.DataAccess\\UserDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:02:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Usuario.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:29:13.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Producto.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:18:28.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Models\\Cliente.cs",
+              "RelativeToolTip": "MiniMarket.Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:28:37.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Menu.Designer.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Menu.Designer.cs",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAMwFsBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:15:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MiniMarket.Presentation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\daimo\\source\\repos\\MiniMarket\\MiniMarket.Presentation\\Form1.Designer.cs",
+              "RelativeToolTip": "MiniMarket.Presentation\\Form1.Designer.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAMwJYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:45:25.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
